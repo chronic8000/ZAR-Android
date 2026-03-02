@@ -151,6 +151,12 @@ One binary adapts dynamically.
 
 > Performance scales with hardware rather than platform limitations.
 
+### 🎬 See It In Action
+
+[![vkQuake 180-190 FPS on Android via ZAR](https://img.youtube.com/vi/1vtXt7Y8Y28/maxresdefault.jpg)](https://www.youtube.com/watch?v=1vtXt7Y8Y28)
+
+*vkQuake running at 180–190 FPS on Android hardware via the ZAR runtime.*
+
 ---
 
 ## Market Opportunity
