@@ -225,4 +225,4 @@ Early partners help define the next generation of portable graphics deployment.
 
 Commercial licensing and partnership inquiries:
 
-**ZAR Runtime Team**
+**[📧 ZAR Runtime Team](mailto:chronic8000@gmail.com)**
